@@ -1,7 +1,7 @@
 # Introduction
 
-Lopsided galaxies are late-type galaxies that feature a non-axisymmetric disk. This asymmetry can significantly impact the dynamical structure and evolution of the host galaxy, causing enhanced star-forming regions, fueling the central active galactic nucleus, and redistributing matter, among others. Furthermore, several works have found differences in the structural properties of lopsided galaxies with respect to the ones of more symmetrical late-type galaxies, such as the central stellar mass density, gravitation cohesiveness, and star formation history.
+Lopsided galaxies are late-type galaxies that feature a non-axisymmetric disk. This asymmetry can significantly impact the dynamical structure and evolution of the host galaxy, causing enhanced star-forming regions, fueling the central active galactic nucleus, and redistributing matter, among others. Furthermore, several works have found differences in the structural properties of lopsided galaxies with respect to the ones of more symmetrical late-type galaxies, such as the central stellar mass density, gravitation cohesiveness, and assembly time.
 
+Although these differences, the origin of this asymmetry is not quite well understood, as both galaxies in the field and in denser environments present lopsidedness. Different mechanisms have been proposed, such as asymmetric gas accretion, tidal encounters, satellite accretion, the response of the disk to the distorted dark matter halo, an off-centered disk, among others.
 
-
-In this project we aim to study lopsided galaxies using only their internal propierties, without any information about the environment they reside. 
+In this project we aim to study lopsided galaxies using only their internal propierties, without any information about the environment they reside. To do so, we employ a random forest classifier, trained and tested using 10 internal parameters, or features, obtained from the Illustris TNG50 simulation. 
